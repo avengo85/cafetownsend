@@ -35,15 +35,15 @@ WebDriverManager checks the platform and browsers installed and downloads requir
 
 After every execution a folder named with timestamp is created where you can find HTML reports along with some statistics and with screenshots in cases of failed tests. 
 
-### Test Description
+### Tests Description
 
 ###### loginLogoutTest
 
-This test opens Login page, fills username and password fields by values provided, clicks 'LOGIN' button, checks that greeting at Employees page contains the name of the user logged in, and click 'Logout' button.
+This test opens Login page, fills username and password fields by values provided, clicks 'Login' button, checks that greeting at Employees page contains the name of the user logged in, and click 'Logout' button.
 
 ###### createDeleteEmployeeTest
 
-This test opens Login page, fills username and password fields by values provided, clicks 'LOGIN' button, clicks 'Create' button, fills data of a new employee, clicks 'Add' button, finds the new user in the full list of employees, selects it, clicks 'Delete' button and accept modal window confirmation.
+This test opens Login page, fills username and password fields by values provided, clicks 'Login' button, clicks 'Create' button, fills data of a new employee, clicks 'Add' button, finds the new user in the full list of employees, selects it, clicks 'Delete' button and accept modal window confirmation.
 
 
 ## Author
