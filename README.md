@@ -1,4 +1,4 @@
-# Acrolinx
+# Cafetownsend
 
 This project includes a test for  [https://cafetownsend-angular-rails.herokuapp.com/](https://cafetownsend-angular-rails.herokuapp.com/).
 
